@@ -87,4 +87,4 @@ The workbook analyses **2,500 sales records** across **15 columns**, covering pr
 
 ## Author
 
-*Your Name* - [GitHub](https://github.com/your-username)
+*akhil das* 
